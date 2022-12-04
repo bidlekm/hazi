@@ -1,2 +1,2 @@
-# hazi
+# Hazi
  Unity game homework
